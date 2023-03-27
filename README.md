@@ -62,8 +62,7 @@ The first 2 buttons will be disabled for the time priod of the End Time. Once th
 ---
 ### Unstake Button
 - This button is for unstake all the amount that you have invested.
-    - For the Plan0 and Plan1 You can only unstake 100% of the amount.
-    - From Plan2 onwards You can unstake some part of the invested amount too.
+    - For all Plan You can only unstake 100% of the amount.
 
 ### Reinvest Button
 
